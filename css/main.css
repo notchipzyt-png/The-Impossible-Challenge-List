@@ -1,5 +1,5 @@
 :root {
-    --color-background: #FF0000;
+    --color-background: red;
     --color-on-background: white;
     --color-background-hover: #eee;
     --color-on-background-hover: black;
