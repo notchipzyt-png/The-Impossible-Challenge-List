@@ -5,13 +5,13 @@
     "creators": ["NotChipz", "AndromedaGMD"],
     "verifier": "NotChipz",
     "verification": "https://youtu.be/emcA6AsA7AU",
-    "percentToQualify": "23",
+    "percentToQualify": "24",
     "password": "Free To Copy",
     "records": [
                 {
             "user": "NotChipz",
             "link": "https://youtu.be/VPBO3PjF0RY",
-            "percent": 23,
+            "percent": 24,
             "hz": 180
         }
     ]
