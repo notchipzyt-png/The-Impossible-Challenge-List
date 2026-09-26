@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+                                     {
+            "user": "Isaac",
+            "link": "https://medal.tv/games/geometry-dash/clips/nAPbPgZzJMJ_Ilhon/spok?invite=cr-MSxscUEsNTQ2ODkxMzczLA",
+            "percent": 100,
+            "hz": "Botted"
+                }
     ]
 }
